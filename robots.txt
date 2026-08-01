@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maximiliano-haymann.github.io/sitemap.xml
